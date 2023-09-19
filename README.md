@@ -6,6 +6,7 @@ KNOW ME GUYS!
 ============ HI EVERYONE !!! ==============
 
 My Name Agus Arifudin
-I am a student at Dian Nuswantoro University with the student ID A11.2021.13736
+I am a student at Dian Nuswantoro University
+My student ID A11.2021.13736
 
 =========== Nice to meet you! =============
